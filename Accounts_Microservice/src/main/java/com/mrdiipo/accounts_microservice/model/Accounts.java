@@ -1,4 +1,4 @@
-package com.example.accounts_microservice.model;
+package com.mrdiipo.accounts_microservice.model;
 
 import lombok.Data;
 
@@ -9,20 +9,20 @@ import java.time.LocalDate;
 
 @Entity
 @Data
-public class Customer {
+public class Accounts {
 
     @Column(name = "customer_id")
-    @Id
     private int customerId;
 
-    @Column(name = "name")
-    private String name;
+    @Column(name = "account_number")
+    @Id
+    private Long accountNumber;
 
-    @Column(name = "email")
-    private String email;
+    @Column(name = "account_type")
+    private String accountType;
 
-    @Column(name = "mobile_number")
-    private int mobileNumber;
+    @Column(name = "branch_address")
+    private String branchAddress;
 
     @Column(name = "create_dt")
     private LocalDate createDate;

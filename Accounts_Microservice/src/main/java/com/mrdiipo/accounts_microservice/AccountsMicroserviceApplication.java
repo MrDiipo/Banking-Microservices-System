@@ -1,4 +1,4 @@
-package com.example.accounts_microservice;
+package com.mrdiipo.accounts_microservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

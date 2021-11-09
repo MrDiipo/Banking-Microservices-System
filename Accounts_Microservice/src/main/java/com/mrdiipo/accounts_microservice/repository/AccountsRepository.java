@@ -1,6 +1,6 @@
-package com.example.accounts_microservice.repository;
+package com.mrdiipo.accounts_microservice.repository;
 
-import com.example.accounts_microservice.model.Accounts;
+import com.mrdiipo.accounts_microservice.model.Accounts;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
