@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Accounts_Microservice/Accounts_Microservice.iml" filepath="$PROJECT_DIR$/Accounts_Microservice/Accounts_Microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cards_Microservice/Cards_Microservice.iml" filepath="$PROJECT_DIR$/Cards_Microservice/Cards_Microservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loans_Microservice/Loans_Microservice.iml" filepath="$PROJECT_DIR$/Loans_Microservice/Loans_Microservice.iml" />
     </modules>
   </component>
