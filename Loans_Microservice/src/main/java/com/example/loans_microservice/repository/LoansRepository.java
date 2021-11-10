@@ -1,6 +1,6 @@
 package com.example.loans_microservice.repository;
 
-import com.mrdiipo.cards_microservice.model.Loans;
+import com.example.loans_microservice.model.Loans;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

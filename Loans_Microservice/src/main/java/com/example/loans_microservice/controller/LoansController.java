@@ -1,8 +1,8 @@
 package com.example.loans_microservice.controller;
 
-import com.mrdiipo.cards_microservice.model.Customer;
-import com.mrdiipo.cards_microservice.model.Loans;
-import com.mrdiipo.cards_microservice.repository.LoansRepository;
+import com.example.loans_microservice.model.Customer;
+import com.example.loans_microservice.model.Loans;
+import com.example.loans_microservice.repository.LoansRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
