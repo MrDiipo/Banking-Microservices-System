@@ -8,5 +8,13 @@
     <artifactId>User-management</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>user_core</module>
+        <module>user_command_api</module>
+        <module>user_query_api</module>
+    </modules>
+
 
 </project>
