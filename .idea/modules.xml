@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/Cards_Microservice/Cards_Microservice.iml" filepath="$PROJECT_DIR$/Cards_Microservice/Cards_Microservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loans_Microservice/Loans_Microservice.iml" filepath="$PROJECT_DIR$/Loans_Microservice/Loans_Microservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/User-management/User-management.iml" filepath="$PROJECT_DIR$/User-management/User-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/User-management/user_command_api/user_command_api.iml" filepath="$PROJECT_DIR$/User-management/user_command_api/user_command_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/User-management/user_query_api/user_query_api.iml" filepath="$PROJECT_DIR$/User-management/user_query_api/user_query_api.iml" />
     </modules>
   </component>
 </project>
