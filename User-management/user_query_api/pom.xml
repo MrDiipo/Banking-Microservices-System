@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.mrdiipo</groupId>
     <artifactId>user_query_api</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0</version>
     <name>user_query_api</name>
     <description>user_query_api</description>
     <properties>
@@ -28,6 +28,13 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.axonframework/axon-spring-boot-starter -->
+        <dependency>
+            <groupId>org.axonframework</groupId>
+            <artifactId>axon-spring-boot-starter</artifactId>
+            <version>4.5.4</version>
         </dependency>
 
         <dependency>

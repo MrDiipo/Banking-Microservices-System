@@ -10,7 +10,6 @@
         <module name="Cards_Microservice" />
         <module name="user_query_api" />
         <module name="user_core" />
-        <module name="User-management" />
         <module name="Accounts_Microservice" />
         <module name="Loans_Microservice" />
         <module name="user_command_api" />
