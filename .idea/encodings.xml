@@ -4,8 +4,8 @@
     <file url="file://$PROJECT_DIR$/Accounts_Microservice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Cards_Microservice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Loans_Microservice/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/User-management/user_command_api/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/User-management/user_core/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/User-management/user_query_api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/User-Management-Microservice/user_command_api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/User-Management-Microservice/user_core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/User-Management-Microservice/user_query_api/src/main/java" charset="UTF-8" />
   </component>
 </project>
