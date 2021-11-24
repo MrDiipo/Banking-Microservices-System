@@ -9,6 +9,8 @@ import org.axonframework.queryhandling.QueryHandler;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.util.ArrayList;
+
 @Service
 public class UserQueryHandlerImpl implements UserQueryHandler{
 
@@ -22,18 +24,21 @@ public class UserQueryHandlerImpl implements UserQueryHandler{
     @QueryHandler
     @Override
     public UserLookUpResponse getUserById(FindUserByIdQuery query) {
-        return null;
+        var user = userRepository.findById(query.getId());
+        return user.map(UserLookUpResponse::new).orElse(null);
     }
 
     @QueryHandler
     @Override
     public UserLookUpResponse searchUsers(SearchUsersQuery query) {
-        return null;
+        var users = new ArrayList<>(userRepository.findByFilterRegex(query.getFilter()));
+        return new UserLookUpResponse(users);
     }
 
     @QueryHandler
     @Override
     public UserLookUpResponse getAllUsers(FindAllUsersQuery query) {
-        return null;
+        var users = new ArrayList<>(userRepository.findAll());
+        return new UserLookUpResponse(users);
     }
 }
