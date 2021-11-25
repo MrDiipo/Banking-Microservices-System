@@ -10,6 +10,9 @@
         <option value="$PROJECT_DIR$/User-management/user_command_api/pom.xml" />
         <option value="$PROJECT_DIR$/User-management/user_query_api/pom.xml" />
         <option value="$PROJECT_DIR$/User-management/user_core/pom.xml" />
+        <option value="$PROJECT_DIR$/Limits-Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/User-Management-Microservice/user_query_api/pom.xml" />
+        <option value="$PROJECT_DIR$/User-Management-Microservice/pom.xml" />
       </list>
     </option>
   </component>
