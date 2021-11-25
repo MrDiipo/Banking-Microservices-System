@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5">
+    <output url="file://$MODULE_DIR$/../User-Management-Microservice/target/classes" />
+    <output-test url="file://$MODULE_DIR$/../User-Management-Microservice/target/test-classes" />
+    <content url="file://$MODULE_DIR$/../User-Management-Microservice">
+      <sourceFolder url="file://$MODULE_DIR$/../User-Management-Microservice/user_command_api/.mvn/wrapper" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../User-Management-Microservice/user_command_api/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../User-Management-Microservice/user_command_api/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../User-Management-Microservice/user_core/.mvn/wrapper" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../User-Management-Microservice/user_core/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../User-Management-Microservice/user_query_api/.mvn/wrapper" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../User-Management-Microservice/user_query_api/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../User-Management-Microservice/user_query_api/src/test/java" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../User-Management-Microservice/target" />
+    </content>
+    <orderEntry type="jdk" jdkName="17" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
