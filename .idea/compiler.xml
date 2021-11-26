@@ -10,6 +10,7 @@
         <module name="Cards_Microservice" />
         <module name="user_query_api" />
         <module name="user_core" />
+        <module name="Spring-Cloud-Config-Server" />
         <module name="Accounts_Microservice" />
         <module name="Loans_Microservice" />
         <module name="Limits-Microservice" />
@@ -21,6 +22,7 @@
       <module name="Cards_Microservice" target="17" />
       <module name="Limits-Microservice" target="17" />
       <module name="Loans_Microservice" target="17" />
+      <module name="Spring-Cloud-Config-Server" target="17" />
       <module name="User-management" target="1.5" />
       <module name="user_command_api" target="17" />
       <module name="user_core" target="17" />
@@ -33,6 +35,7 @@
       <module name="Cards_Microservice" options="-parameters" />
       <module name="Limits-Microservice" options="-parameters" />
       <module name="Loans_Microservice" options="-parameters" />
+      <module name="Spring-Cloud-Config-Server" options="-parameters" />
       <module name="user_command_api" options="-parameters" />
       <module name="user_core" options="-parameters" />
       <module name="user_query_api" options="-parameters" />
