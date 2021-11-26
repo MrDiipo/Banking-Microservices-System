@@ -14,6 +14,7 @@
         <option value="$PROJECT_DIR$/User-Management-Microservice/user_query_api/pom.xml" />
         <option value="$PROJECT_DIR$/User-Management-Microservice/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-Cloud-Config-Server/pom.xml" />
+        <option value="$PROJECT_DIR$/Currency-Exchange-Microservice/pom.xml" />
       </list>
     </option>
   </component>
