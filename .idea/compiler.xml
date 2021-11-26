@@ -21,7 +21,7 @@
       <module name="Cards_Microservice" target="17" />
       <module name="Limits-Microservice" target="17" />
       <module name="Loans_Microservice" target="17" />
-      <module name="User-Management-Microservice" target="1.5" />
+      <module name="User-management" target="1.5" />
       <module name="user_command_api" target="17" />
       <module name="user_core" target="17" />
       <module name="user_query_api" target="17" />
