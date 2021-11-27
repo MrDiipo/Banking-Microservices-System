@@ -8,5 +8,5 @@ import java.math.BigDecimal;
 @Data
 @Builder
 public class CurrencyResponseModel {
-    private BigDecimal value;
+    private BigDecimal convertedAmount;
 }
