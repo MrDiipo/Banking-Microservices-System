@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.mrdiipo</groupId>
-    <artifactId>Currency-Exchange-Microservice</artifactId>
+    <artifactId>currency-exchange-microservice</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Currency-Exchange-Microservice</name>
     <description>Currency-Exchange-Microservice</description>
@@ -99,6 +99,9 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
+                    <image>
+                        <name>mrdiipo/${project.artifactId}</name>
+                    </image>
                     <excludes>
                         <exclude>
                             <groupId>org.projectlombok</groupId>

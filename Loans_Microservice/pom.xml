@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>Loans_Microservice</artifactId>
+    <artifactId>loans_microservice</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Loans_Microservice</name>
     <description>Loans_Microservice</description>
@@ -56,6 +56,9 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
+                    <image>
+                        <name>mrdiipo/${project.artifactId}</name>
+                    </image>
                     <excludes>
                         <exclude>
                             <groupId>org.projectlombok</groupId>
