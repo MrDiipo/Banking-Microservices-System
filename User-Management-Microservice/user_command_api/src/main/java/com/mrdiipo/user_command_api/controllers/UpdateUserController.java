@@ -1,8 +1,7 @@
 package com.mrdiipo.user_command_api.controllers;
 
 import com.mrdiipo.user_command_api.commands.UpdateUserCommand;
-import com.mrdiipo.user_command_api.dto.BaseResponse;
-import com.mrdiipo.user_command_api.dto.RegisterUserResponse;
+import com.mrdiipo.user_core.dto.BaseResponse;
 import org.axonframework.commandhandling.gateway.CommandGateway;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

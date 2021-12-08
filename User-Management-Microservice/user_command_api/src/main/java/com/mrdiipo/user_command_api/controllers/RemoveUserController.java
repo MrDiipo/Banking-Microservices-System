@@ -1,7 +1,7 @@
 package com.mrdiipo.user_command_api.controllers;
 
 import com.mrdiipo.user_command_api.commands.RemoveUserCommand;
-import com.mrdiipo.user_command_api.dto.BaseResponse;
+import com.mrdiipo.user_core.dto.BaseResponse;
 import com.mrdiipo.user_command_api.dto.RegisterUserResponse;
 import org.axonframework.commandhandling.gateway.CommandGateway;
 import org.springframework.beans.factory.annotation.Autowired;
