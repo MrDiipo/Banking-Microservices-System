@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/User-Management-Microservice/User-management.iml" filepath="$PROJECT_DIR$/User-Management-Microservice/User-management.iml" />
       <module fileurl="file://$PROJECT_DIR$/User-Management-Microservice/user_command_api/user_command_api.iml" filepath="$PROJECT_DIR$/User-Management-Microservice/user_command_api/user_command_api.iml" />
       <module fileurl="file://$PROJECT_DIR$/User-Management-Microservice/user_core/user_core.iml" filepath="$PROJECT_DIR$/User-Management-Microservice/user_core/user_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/User-Management-Microservice/user_oauth2/user_oauth2.iml" filepath="$PROJECT_DIR$/User-Management-Microservice/user_oauth2/user_oauth2.iml" />
       <module fileurl="file://$PROJECT_DIR$/User-Management-Microservice/user_query_api/user_query_api.iml" filepath="$PROJECT_DIR$/User-Management-Microservice/user_query_api/user_query_api.iml" />
     </modules>
   </component>

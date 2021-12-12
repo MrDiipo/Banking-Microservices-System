@@ -39,8 +39,10 @@
       <module name="Limits-Microservice" options="-parameters" />
       <module name="Loans_Microservice" options="-parameters" />
       <module name="Spring-Cloud-Config-Server" options="-parameters" />
+      <module name="user_Oauth2_0" options="-parameters" />
       <module name="user_command_api" options="-parameters" />
       <module name="user_core" options="-parameters" />
+      <module name="user_oauth2" options="-parameters" />
       <module name="user_query_api" options="-parameters" />
     </option>
   </component>
