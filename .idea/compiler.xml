@@ -16,6 +16,7 @@
         <module name="Loans_Microservice" />
         <module name="Limits-Microservice" />
         <module name="user_command_api" />
+        <module name="user_oauth2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -28,6 +29,7 @@
       <module name="User-management" target="1.5" />
       <module name="user_command_api" target="17" />
       <module name="user_core" target="17" />
+      <module name="user_oauth2" target="17" />
       <module name="user_query_api" target="17" />
     </bytecodeTargetLevel>
   </component>
