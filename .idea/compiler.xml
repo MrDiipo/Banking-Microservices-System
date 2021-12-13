@@ -23,6 +23,7 @@
     <bytecodeTargetLevel>
       <module name="Accounts_Microservice" target="17" />
       <module name="Api-Gateway" target="17" />
+      <module name="Bank-Account-Service" target="17" />
       <module name="Cards_Microservice" target="17" />
       <module name="Currency-Exchange-Microservice" target="17" />
       <module name="Limits-Microservice" target="17" />

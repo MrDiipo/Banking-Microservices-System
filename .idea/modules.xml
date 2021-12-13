@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Accounts_Microservice/Accounts_Microservice.iml" filepath="$PROJECT_DIR$/Accounts_Microservice/Accounts_Microservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Api-Gateway/Api-Gateway.iml" filepath="$PROJECT_DIR$/Api-Gateway/Api-Gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bank-Account-Service/Bank-Account-Service.iml" filepath="$PROJECT_DIR$/Bank-Account-Service/Bank-Account-Service.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cards_Microservice/Cards_Microservice.iml" filepath="$PROJECT_DIR$/Cards_Microservice/Cards_Microservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Currency-Exchange-Microservice/Currency-Exchange-Microservice.iml" filepath="$PROJECT_DIR$/Currency-Exchange-Microservice/Currency-Exchange-Microservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Limits-Microservice/Limits-Microservice.iml" filepath="$PROJECT_DIR$/Limits-Microservice/Limits-Microservice.iml" />

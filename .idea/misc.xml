@@ -17,6 +17,7 @@
         <option value="$PROJECT_DIR$/Currency-Exchange-Microservice/pom.xml" />
         <option value="$PROJECT_DIR$/User-Management-Microservice/user_oauth2/pom.xml" />
         <option value="$PROJECT_DIR$/Api-Gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/Bank-Account-Service/pom.xml" />
       </list>
     </option>
   </component>
