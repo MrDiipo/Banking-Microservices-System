@@ -7,23 +7,29 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="user_core" />
+        <module name="Spring-Cloud-Config-Server" />
+        <module name="Loans_Microservice" />
+        <module name="Limits-Microservice" />
         <module name="Currency-Exchange-Microservice" />
         <module name="Cards_Microservice" />
         <module name="user_query_api" />
-        <module name="user_core" />
-        <module name="Spring-Cloud-Config-Server" />
+        <module name="bankAcc-core" />
         <module name="Accounts_Microservice" />
-        <module name="Loans_Microservice" />
-        <module name="Limits-Microservice" />
+        <module name="bankAcc-command-api" />
         <module name="Api-Gateway" />
         <module name="user_command_api" />
         <module name="user_oauth2" />
+        <module name="bankAcc-query-api" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Accounts_Microservice" target="17" />
       <module name="Api-Gateway" target="17" />
       <module name="Bank-Account-Service" target="17" />
+      <module name="bankAcc-command-api" target="17" />
+      <module name="bankAcc-core" target="11" />
+      <module name="bankAcc-query-api" target="17" />
       <module name="Cards_Microservice" target="17" />
       <module name="Currency-Exchange-Microservice" target="17" />
       <module name="Limits-Microservice" target="17" />
@@ -45,6 +51,9 @@
       <module name="Limits-Microservice" options="-parameters" />
       <module name="Loans_Microservice" options="-parameters" />
       <module name="Spring-Cloud-Config-Server" options="-parameters" />
+      <module name="bankAcc-command-api" options="-parameters" />
+      <module name="bankAcc-core" options="-parameters" />
+      <module name="bankAcc-query-api" options="-parameters" />
       <module name="user_Oauth2_0" options="-parameters" />
       <module name="user_command_api" options="-parameters" />
       <module name="user_core" options="-parameters" />

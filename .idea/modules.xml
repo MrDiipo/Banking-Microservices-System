@@ -11,6 +11,9 @@
       <module fileurl="file://$PROJECT_DIR$/Loans_Microservice/Loans_Microservice.iml" filepath="$PROJECT_DIR$/Loans_Microservice/Loans_Microservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-Cloud-Config-Server/Spring-Cloud-Config-Server.iml" filepath="$PROJECT_DIR$/Spring-Cloud-Config-Server/Spring-Cloud-Config-Server.iml" />
       <module fileurl="file://$PROJECT_DIR$/User-Management-Microservice/User-management.iml" filepath="$PROJECT_DIR$/User-Management-Microservice/User-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bank-Account-Service/bankAcc-command-api/bankAcc-command-api.iml" filepath="$PROJECT_DIR$/Bank-Account-Service/bankAcc-command-api/bankAcc-command-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bank-Account-Service/bankAcc-core/bankAcc-core.iml" filepath="$PROJECT_DIR$/Bank-Account-Service/bankAcc-core/bankAcc-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bank-Account-Service/bankAcc-query-api/bankAcc-query-api.iml" filepath="$PROJECT_DIR$/Bank-Account-Service/bankAcc-query-api/bankAcc-query-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/User-Management-Microservice/user_command_api/user_command_api.iml" filepath="$PROJECT_DIR$/User-Management-Microservice/user_command_api/user_command_api.iml" />
       <module fileurl="file://$PROJECT_DIR$/User-Management-Microservice/user_core/user_core.iml" filepath="$PROJECT_DIR$/User-Management-Microservice/user_core/user_core.iml" />
       <module fileurl="file://$PROJECT_DIR$/User-Management-Microservice/user_oauth2/user_oauth2.iml" filepath="$PROJECT_DIR$/User-Management-Microservice/user_oauth2/user_oauth2.iml" />

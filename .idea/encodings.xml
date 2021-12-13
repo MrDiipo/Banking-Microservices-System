@@ -3,6 +3,9 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/Accounts_Microservice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Api-Gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Bank-Account-Service/bankAcc-command-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Bank-Account-Service/bankAcc-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Bank-Account-Service/bankAcc-query-api/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Cards_Microservice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Currency-Exchange-Microservice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Limits-Microservice/src/main/java" charset="UTF-8" />

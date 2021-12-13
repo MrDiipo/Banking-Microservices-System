@@ -18,6 +18,9 @@
         <option value="$PROJECT_DIR$/User-Management-Microservice/user_oauth2/pom.xml" />
         <option value="$PROJECT_DIR$/Api-Gateway/pom.xml" />
         <option value="$PROJECT_DIR$/Bank-Account-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Bank-Account-Service/bankAcc-command-api/pom.xml" />
+        <option value="$PROJECT_DIR$/Bank-Account-Service/bankAcc-query-api/pom.xml" />
+        <option value="$PROJECT_DIR$/Bank-Account-Service/bankAcc-core/pom.xml" />
       </list>
     </option>
   </component>
