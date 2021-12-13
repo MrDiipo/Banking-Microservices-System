@@ -1,0 +1,17 @@
+server:
+  port: 0
+
+spring:
+  jpa:
+    database-platform: org.hibernate.dialect.MySQL8Dialect
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+
+
+
+security:
+  oauth2:
+    resource:
+      jwt:
+        key-value: mrdiipoBankKey

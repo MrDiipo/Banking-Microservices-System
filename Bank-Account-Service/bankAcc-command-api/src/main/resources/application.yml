@@ -1,0 +1,8 @@
+server:
+  port: 0
+
+security:
+  oauth2:
+    resource:
+      jwt:
+        key-value: mrdiipoBankKey
