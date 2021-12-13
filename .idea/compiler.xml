@@ -15,12 +15,14 @@
         <module name="Accounts_Microservice" />
         <module name="Loans_Microservice" />
         <module name="Limits-Microservice" />
+        <module name="Api-Gateway" />
         <module name="user_command_api" />
         <module name="user_oauth2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Accounts_Microservice" target="17" />
+      <module name="Api-Gateway" target="17" />
       <module name="Cards_Microservice" target="17" />
       <module name="Currency-Exchange-Microservice" target="17" />
       <module name="Limits-Microservice" target="17" />
@@ -36,6 +38,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Accounts_Microservice" options="-parameters" />
+      <module name="Api-Gateway" options="-parameters" />
       <module name="Cards_Microservice" options="-parameters" />
       <module name="Currency-Exchange-Microservice" options="-parameters" />
       <module name="Limits-Microservice" options="-parameters" />
